@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MarlonLencina/imagesForProjects/main/GoBarber%20-%20github.png?token=AWCCJIOG7TCUG77REF76J2TBVIK6K)](https://github.com/MarlonLencina/)
+[![Header](https://raw.githubusercontent.com/MarlonLencina/GoBarber/main/ButtonGoBarber.png)](https://github.com/MarlonLencina/)
 
 # GoBarber
 GoBarber Project 2021 - Created with GoStack11 at Rocketseat by DevMarlon
